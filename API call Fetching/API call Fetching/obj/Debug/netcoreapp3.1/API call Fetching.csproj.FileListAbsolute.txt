@@ -1,0 +1,14 @@
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\bin\Debug\netcoreapp3.1\API call Fetching.exe
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\bin\Debug\netcoreapp3.1\API call Fetching.deps.json
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\bin\Debug\netcoreapp3.1\API call Fetching.runtimeconfig.json
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\bin\Debug\netcoreapp3.1\API call Fetching.runtimeconfig.dev.json
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\bin\Debug\netcoreapp3.1\API call Fetching.dll
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\bin\Debug\netcoreapp3.1\API call Fetching.pdb
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\obj\Debug\netcoreapp3.1\API call Fetching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\obj\Debug\netcoreapp3.1\API call Fetching.AssemblyInfoInputs.cache
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\obj\Debug\netcoreapp3.1\API call Fetching.AssemblyInfo.cs
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\obj\Debug\netcoreapp3.1\API call Fetching.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\obj\Debug\netcoreapp3.1\API call Fetching.dll
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\obj\Debug\netcoreapp3.1\API call Fetching.pdb
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\obj\Debug\netcoreapp3.1\API call Fetching.genruntimeconfig.cache
+C:\Users\Praveen Kumar Reddy\source\repos\API call Fetching\API call Fetching\obj\Debug\netcoreapp3.1\API call Fetching.csproj.AssemblyReference.cache
